@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
-  path: content/mods
+  path: content/post/mods
   label: Mods
   create: all
   match: "**/*"
