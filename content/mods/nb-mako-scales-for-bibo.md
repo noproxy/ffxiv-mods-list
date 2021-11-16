@@ -1,7 +1,7 @@
 ---
 title: "[NB+] Mako Scales for Bibo+"
 date: 2017-04-28
-hero: /images/0ce15acee5a84e7c.png
+hero: /images/hero-2.jpg
 excerpt: "https://www.xivmodarchive.com/modid/29744"
 timeToRead: 4
 authors:
