@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: Mods
+  create: all
+  match: "**/*"
+  new_doc_ext: ".adoc"
+  templates:
+  - post
 - type: heading
   label: Content
 - type: document
