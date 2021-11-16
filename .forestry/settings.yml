@@ -8,7 +8,7 @@ sections:
   path: content/mods
   label: Mods
   create: all
-  match: content/mods/**/*
+  match: "**/*"
   new_doc_ext: md
   templates:
   - post
