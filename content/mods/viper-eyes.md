@@ -1,7 +1,7 @@
 ---
 title: Viper Eyes
 excerpt: https://www.xivmodarchive.com/modid/29800
-authors: [D:\Downloads\RAMY-ViperEye.zip]
+authors: []
 timeToRead: 0
 date: 2021-04-24T09:38:02.000+08:00
 hero: "/images/c4d01cf52f6d4773.png"
