@@ -1,5 +1,5 @@
 ---
-title: "[NB+] Mako Scales for Bibo+"
+title: "NB+ Mako Scales for Bibo+"
 date: 2017-04-28
 hero: /images/hero-2.jpg
 excerpt: "https://www.xivmodarchive.com/modid/29744"
