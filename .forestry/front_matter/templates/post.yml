@@ -41,5 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
-- content/mods/nb-mako-scales-for-bibo.md
-- content/mods/viper-eyes.md
+- content/post/nb-mako-scales-for-bibo.md
+- content/post/viper-eyes.md
