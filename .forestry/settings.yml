@@ -9,7 +9,7 @@ sections:
   label: Mods
   create: all
   match: "**/*"
-  new_doc_ext: ".adoc"
+  new_doc_ext: adoc
   templates:
   - post
 - type: heading
