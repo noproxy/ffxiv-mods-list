@@ -40,6 +40,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/nb-mako-scales-for-bibo.md
-- content/post/viper-eyes.md
