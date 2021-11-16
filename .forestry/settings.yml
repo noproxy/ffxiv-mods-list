@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: content/post/mods
   label: Mods
   create: all
-  match: "**/*"
+  match: content/post/mods/**/*
   new_doc_ext: adoc
   templates:
   - post
