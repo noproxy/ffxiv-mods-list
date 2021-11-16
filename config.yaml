@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://mods.toxz.synology.me"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "FFXIV Mods"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 

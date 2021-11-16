@@ -1,15 +1,15 @@
 ---
 new_page_extension: md
-auto_deploy: false
+auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/post/mods
+  path: content/mods
   label: Mods
   create: all
-  match: content/post/mods/**/*
-  new_doc_ext: adoc
+  match: content/mods/**/*
+  new_doc_ext: md
   templates:
   - post
 - type: heading
